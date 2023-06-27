@@ -1,0 +1,2 @@
+# Slot-machine-game
+The code implements a simple slot machine game in Python. Players can deposit funds, set their bet amount and the number of lines to bet on. The game generates a random arrangement of symbols on a grid and checks for winning combinations. Winnings are calculated based on the bet amount and symbol values. Players can continue playing or quit, and the final balance is displayed at the end.
